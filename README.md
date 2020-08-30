@@ -29,10 +29,6 @@ Based on the "Theatre Outcomes vs Launch Dates" graph, we can conclude that a la
 - What can you conclude about the Outcomes based on Goals?
 Based on the "Outcomes vs Goals" graph, we can conclude that funding goals of a range of $25,000 to $35,000 and larger than $45,000 are more likely to fail. Goals of $10,000 and a rang of$35,000 to $45,000 have greater than a 50% chance of being successful. 
 
-- What are some limitations of this dataset?
-a limitation to the dataset could be the lack of additional details collected. For the plays subcategory if we understood the genre of the play, that may allow us to understand if that affect the success rate for the funding goal. 
-
-
 - What are some other possible tables and/or graphs that we could create?
 In order to provide Louise with the most successful outcomes it would be beneficial to analyze the timeframe from the launch date to deadline since Louise said that they have a short time period. 
 
