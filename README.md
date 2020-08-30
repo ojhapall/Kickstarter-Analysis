@@ -11,12 +11,12 @@ The purpose of this project was to see if Louise's play Fever would be successfu
 
 ### Analysis of Outcomes Based on Launch Date
 Based on the launch date, Louise would be most successful if their launch date was around Mar to May.
-![Theatre Outcomes vs Launch]("Theatre Outcomes vs Launch.png")
+![Theatre Outcomes vs Launch](path/to/"Theatre Outcomes vs Launch.png")
 
 
 ### Analysis of Outcomes Based on Goals
 Based on funding goals Louise could have a success rate of around 80% if their goal was less than $5,000 or $35,000 to $45,000. They are also more likley to fail if the funding amount is around $25,000 to $35,000 and greater than $45,000. 
-![Outcomes vs Goals]("Outcomes vs Goals.png")
+![Outcomes vs Goals](path/to/"Outcomes vs Goals.png")
 
 ### Challenges and Difficulties Encountered
 I encountered challenges while trying to use the countifs formula. Once I was able to understand the formula better then I was able to successfully collect the data. To ensure that I was using the formula correct I would filter the data and sum the coloums in order to ensure I had the same numbers. 
