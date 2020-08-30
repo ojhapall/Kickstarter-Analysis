@@ -11,13 +11,13 @@ The purpose of this project was to see if Louise's play Fever would be successfu
 
 ### Analysis of Outcomes Based on Launch Date
 Based on the launch date, Louise would be most successful if their launch date was around Mar to May.
+
 ![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/68453460/91668504-3d92f500-eadb-11ea-9fc9-4d9aebc65b92.png)
-
-
 
 ### Analysis of Outcomes Based on Goals
 Based on funding goals Louise could have a success rate of around 80% if their goal was less than $5,000 or $35,000 to $45,000. They are also more likley to fail if the funding amount is around $25,000 to $35,000 and greater than $45,000. 
-Outcomes vs Goals.png
+
+![Parent Category Outcomes](https://user-images.githubusercontent.com/68453460/91668521-53081f00-eadb-11ea-944b-a2006adef059.jpg)
 
 ### Challenges and Difficulties Encountered
 I encountered challenges while trying to use the countifs formula. Once I was able to understand the formula better then I was able to successfully collect the data. To ensure that I was using the formula correct I would filter the data and sum the coloums in order to ensure I had the same numbers. 
