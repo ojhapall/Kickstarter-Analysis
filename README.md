@@ -12,7 +12,7 @@ The purpose of this project was to see if Louise's play Fever would be successfu
 ### Analysis of Outcomes Based on Launch Date
 Based on the launch date, Louise would be most successful if their launch date was around Mar to May.
 
-![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/68453460/91668504-3d92f500-eadb-11ea-9fc9-4d9aebc65b92.png)
+![Outcomes vs Goals](https://user-images.githubusercontent.com/68453460/91668601-c3af3b80-eadb-11ea-8c4d-62ef6071fa3d.png)
 
 ### Analysis of Outcomes Based on Goals
 Based on funding goals Louise could have a success rate of around 80% if their goal was less than $5,000 or $35,000 to $45,000. They are also more likley to fail if the funding amount is around $25,000 to $35,000 and greater than $45,000. 
